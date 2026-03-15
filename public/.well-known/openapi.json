@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://your-app.vercel.app"
+      "url": "https://yazio-api-2.vercel.app"
     }
   ],
   "paths": {
